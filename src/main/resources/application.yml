@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://mongo:VEljiTOHVFFGATixdfHtQsbwbvIbFZJM@monorail.proxy.rlwy.net:41350/
+      host: mongo-db-backend
+      port: 27017
+      database: numbers
+
+
+
